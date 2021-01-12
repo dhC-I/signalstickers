@@ -24377,3 +24377,14 @@ b393ac489077525219775cf4b6588925:
   nsfw: False
   original: False
   animated: False
+
+23bbba866cdb05c7c8fb0c43067b3412:
+  key: 824c043d4bfec645c61952e22217df0fc55e0c5478be5b3c0e145fef3841cc5c
+  source: 'https://www.instagram.com/dh_calligraphy_illustrations/'
+  tags:
+    - dh_calligraphy_illustrations
+    - calligraphy
+    - hongkongbased
+  nsfw: false
+  original: true
+  animated: false
